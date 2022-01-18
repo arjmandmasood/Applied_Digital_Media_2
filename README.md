@@ -1,1 +1,1 @@
-# Applied_Digital_Media_2
+# Digital Photo Gallery
